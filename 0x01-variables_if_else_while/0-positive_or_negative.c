@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.hi>
+#include <stdio.h>
 /**
  * main - A program that assigna random number to the variable n
  *Return: (0) (success)
