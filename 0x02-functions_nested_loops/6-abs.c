@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abs computes the absoulute value of an integer
+ * main - _abs computes the absoulute value of an integer
  * @c: The number to be computed
  * Return: Absoulute value of number or zero
  */
